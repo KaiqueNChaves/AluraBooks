@@ -2,9 +2,9 @@
   width: 24 px;
   height: 24 px;
   background-image: url("../Aulabooks/menu.svg);
-  display: iniline-block; 
+  display: inline-block; 
 }
 
 .cabeçalho {
-background-color: var (--branco);
+background-color: var(--branco);
 }
